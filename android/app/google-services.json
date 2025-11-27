@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94547702937",
+    "project_id": "stajproje-9f0d5",
+    "storage_bucket": "stajproje-9f0d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94547702937:android:b228144ee22761afb47408",
+        "android_client_info": {
+          "package_name": "com.alisapp.staj_proje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK5eElsUaT6lo2Sb4U8_R3QTNAFV5r_II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
